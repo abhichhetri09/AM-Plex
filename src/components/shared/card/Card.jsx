@@ -1,7 +1,7 @@
 import React from "react";
 import { cva } from "class-variance-authority";
 
-import { cn } from "@/utils/classMerger";
+import { cn } from "@/utils";
 
 const cardVariants = cva("", {
   variants: {
